@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TugasPCD</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="appbar_scrolling_view_behavior" />
+    <string name="action_settings">About</string>
+    <string name="insert">Insert Gambar</string>
+    <item name="action_settings" type="id">setting</item>
+</resources>
